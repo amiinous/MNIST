@@ -24,7 +24,7 @@ if {$argc != 4} {
 # project name, target dir and FPGA part to use
 set config_proj_name [lindex $argv 0]
 set config_proj_dir [lindex $argv 1]
-set config_proj_part "xc7z020clg400-1"
+set config_proj_part "xc7z045ffg900-2"
 
 # other project config
 
