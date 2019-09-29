@@ -1,2 +1,10 @@
 *.pyc
 *.log
+*.meta
+*.npy
+*.t
+checkpoint
+*.data-00000-of-00001
+stat.json
+*.index
+*.local
