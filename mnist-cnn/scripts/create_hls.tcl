@@ -35,7 +35,7 @@ puts "hls_src: ${hls_src}"
 puts "hls_nn_lib: ${hls_nn_lib}" 
 
 set config_toplevelfxn "DoCompute"
-set config_proj_part "xc7z020clg400-1"
+set config_proj_part "xc7z045ffg900-2"
 set config_clkperiod 10
 
 open_project $proj_name
